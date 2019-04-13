@@ -16,7 +16,6 @@ gen_mat.cpp - To generate a random matrix of N X M Size.
           2 3  
           7 4 1  
           7 8 9  
-          6 5 4  
           
 gen_str.cpp - To generate a random string having N characters.  
           5  
