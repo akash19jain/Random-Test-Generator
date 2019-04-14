@@ -17,6 +17,26 @@ gen_mat.cpp - To generate a random matrix of N X M Size.
           7 4 1  
           7 8 9  
           
+gen_matr.cpp - To generate a random matrix of N X M Size having distinct elements.  
+          2 3  
+          7 4 1  
+          2 8 9  
+          
+gen_pair.cpp - To generate a random array of N pairs .  
+          2   
+          7 4   
+          7 8   
+   
+gen_pairr.cpp - To generate a random array of N pairs having distinct elements .  
+          2   
+          7 4   
+          2 8  
+          
+gen_pairs.cpp - To generate a random array of N pairs having first element smaller than the second .  
+          2   
+          3 4   
+          7 8  
+          
 gen_str.cpp - To generate a random string having N characters.  
           5  
           sdfgs  
