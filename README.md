@@ -1,5 +1,5 @@
 # Random-Test-Generator
-CPP programs to generate Random test cases. Useful during Competitive Programming Competitions to check if your code works for corner test cases.
+CPP programs to generate Random test cases. Useful during Competitive Programming Competitions to generate randon cases and check your program on those cases.
 
 The following programs generate test cases based on seeds. So you need to enter a integer while executing it.  
 Example:   **./gen 1**
